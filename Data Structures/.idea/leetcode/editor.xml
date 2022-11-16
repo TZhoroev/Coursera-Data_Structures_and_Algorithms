@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[135]Candy.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[135]Candy.md" />
+              <option name="frontendQuestionId" value="leetcode.com135" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[135]Candy.py" />
+              <option name="titleSlug" value="candy" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[27]Remove Element.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/doc/content/[27]Remove Element.md" />
+              <option name="frontendQuestionId" value="leetcode.com27" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/../../../Leetcode/leetcode/editor/en/[27]Remove Element.py" />
+              <option name="titleSlug" value="remove-element" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
