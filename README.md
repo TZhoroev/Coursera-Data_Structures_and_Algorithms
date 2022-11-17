@@ -160,8 +160,6 @@ My solutions to the UCSD and HSE-provided Coursera assignments on [Data Structur
 
 ## [Advanced Algorithms and Complexity](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Advanced%20Algorithm%20and%20Complexity): [Certificate](https://coursera.org/share/e1915c085391ca286397f162cd1066ab)
 
-**
-
 ### Week 1: Flows in Networks
 
 1. [Evacuating People](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Advanced%20Algorithm%20and%20Complexity/week1/evacuation)
@@ -191,7 +189,7 @@ My solutions to the UCSD and HSE-provided Coursera assignments on [Data Structur
 
 1. [Nice vs Naughty](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Advanced%20Algorithm%20and%20Complexity/week5/starter_files)
 
-## Genome Assembly Programming Challenge
+## [Genome Assembly Programming Challenge](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Genome%20Assembly%20Programming%20Challenge): [Certificate](https://coursera.org/share/9998ba482e19d34d39c1e9b16501d839)
 
 ### Week 1: Assembling phi X174 Using Overlap Graphs
 
