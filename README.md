@@ -1,8 +1,8 @@
-# Algorithms and Data Structures
+# [Algorithms and Data Structures](https://www.coursera.org/account/accomplishments/specialization/L79TXXE4GUA8)
 My solutions to the UCSD and HSE-provided Coursera assignments on [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms). The problems from courses 1 through 6 have all been solved using Python.
 
 
-## [Algorithmic Toolbox](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Algorithmic%20Toolbox): [Certificate](https://coursera.org/share/88a76058eda654df91d12d93851db345)
+## [Algorithmic Toolbox](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Algorithmic%20Toolbox): [Certificate](https://coursera.org/share/d10c5736c361e439545136b51e47a755)
 
 *This online course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming.*
 
@@ -55,7 +55,7 @@ My solutions to the UCSD and HSE-provided Coursera assignments on [Data Structur
 2. [Partitioning Souvenirs](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Algorithmic%20Toolbox/week6_dynamic_programming2/Partitioning%20Souvenirs)
 3. [Maximum Value of an Arithmetic Expression](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Algorithmic%20Toolbox/week6_dynamic_programming2/Maximum%20Value%20of%20an%20Arithmetic%20Expression)
 
-## [Data Structures](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Data%20Structures): [Certificate](https://coursera.org/share/9e079a95e5f967433b19926fef705fac)
+## [Data Structures](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Data%20Structures): [Certificate](https://coursera.org/share/4db77755302f19be114ce39f80b200e9)
 *In this online course, we consider the common data structures that are used in various computational problems.*
 
 ### Week 1: Basic Data Structures
@@ -91,7 +91,7 @@ My solutions to the UCSD and HSE-provided Coursera assignments on [Data Structur
 4. [Set with range sums](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Data%20Structures/week4_binary_search_trees/4_set_range_sum)
 5. [Rope](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Data%20Structures/week4_binary_search_trees/5_rope)
 
-## [Algorithms on Graphs](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Algorithm%20on%20Graphs): [Certificate](https://coursera.org/share/8e36b512fe113acb14a85abd436d54f2)
+## [Algorithms on Graphs](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Algorithm%20on%20Graphs): [Certificate](https://coursera.org/share/9389212404334d1359c7982c34f55af5)
 
 *In this online course, first learned what a graph is and what are some of the most important properties. Then we learned several ways to traverse graphs and how one can do useful things while traversing the graph in some order. Then we learned shortest paths algorithms — from the basic ones to those which open door for 1000000 times faster algorithms used in Google Maps and other navigational services. We finished with minimum spanning trees which are used to plan road, telephone and computer networks and also find applications in clustering and approximate algorithms.*
 
@@ -158,7 +158,7 @@ My solutions to the UCSD and HSE-provided Coursera assignments on [Data Structur
 4. [Construct the Suffix Tree from the Suffix Array](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Algorithm%20on%20Strings/week_3%264_Algorithmic_Challenges/suffix_tree_from_array)
 
 
-## [Advanced Algorithms and Complexity](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Advanced%20Algorithm%20and%20Complexity): [Certificate](https://coursera.org/share/e1915c085391ca286397f162cd1066ab)
+## [Advanced Algorithms and Complexity](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Advanced%20Algorithm%20and%20Complexity): [Certificate](https://www.coursera.org/account/accomplishments/verify/RF2E5DWBN2UE)
 
 ### Week 1: Flows in Networks
 
@@ -189,7 +189,7 @@ My solutions to the UCSD and HSE-provided Coursera assignments on [Data Structur
 
 1. [Nice vs Naughty](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Advanced%20Algorithm%20and%20Complexity/week5/starter_files)
 
-## [Genome Assembly Programming Challenge](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Genome%20Assembly%20Programming%20Challenge): [Certificate](https://coursera.org/share/9998ba482e19d34d39c1e9b16501d839)
+## [Genome Assembly Programming Challenge](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Genome%20Assembly%20Programming%20Challenge): [Certificate](https://www.coursera.org/account/accomplishments/verify/Z9LWAP3VXWSF)
 
 ### Week 1: Assembling phi X174 Using Overlap Graphs
 
