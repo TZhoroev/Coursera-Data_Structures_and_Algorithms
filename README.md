@@ -1,4 +1,6 @@
 # [Algorithms and Data Structures](https://www.coursera.org/account/accomplishments/specialization/L79TXXE4GUA8)
+![Plot](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Competitive-Programming-1.jpg)
+
 My solutions to the UCSD and HSE-provided Coursera assignments on [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms). The problems from courses 1 through 6 have all been solved using Python.
 
 
