@@ -192,7 +192,7 @@ My solutions to the UCSD and HSE-provided Coursera assignments on [Data Structur
 1. [Nice vs Naughty](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Advanced%20Algorithm%20and%20Complexity/week5/starter_files)
 
 ## [Genome Assembly Programming Challenge](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Genome%20Assembly%20Programming%20Challenge): [Certificate](https://www.coursera.org/account/accomplishments/verify/Z9LWAP3VXWSF)
-
+![Plot](https://github.com/TZhoroev/Algorithm-and-Data-Structures/blob/main/Genome%20Assembly%20Programming%20Challenge/deb.png)
 ### Week 1: Assembling phi X174 Using Overlap Graphs
 
 1. [Assembling the phi X174 Genome from Error-Free Reads Using Overlap Graphs](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Genome%20Assembly%20Programming%20Challenge/week1/Error%20Free)
