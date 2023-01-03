@@ -1,8 +1,11 @@
 # [Algorithms and Data Structures](https://www.coursera.org/account/accomplishments/specialization/L79TXXE4GUA8)
 ![Plot](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Competitive-Programming-1.jpg)
 
-My solutions to the UCSD and HSE-provided Coursera assignments on [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms). The problems from courses 1 through 6 have all been solved using Python.
+This repository contains my solutions to the [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) assignments offered by the University of California, San Diego (UCSD) and the National Research University Higher School of Economics (HSE) on Coursera. All of the problems from courses 1 through 6 have been solved using Python.
 
+These solutions are intended to serve as a reference for those working on these assignments or seeking an alternative perspective on how to approach the problems. It is recommended that you try solving the assignments independently before consulting these solutions, as the best way to improve your skills is through practice. However, if you encounter difficulties or require additional guidance, these solutions are available for reference.
+
+I hope that this repository proves to be a useful resource for your studies in data structures and algorithms.
 
 ## [Algorithmic Toolbox](https://github.com/TZhoroev/Algorithm-and-Data-Structures/tree/main/Algorithmic%20Toolbox): [Certificate](https://coursera.org/share/d10c5736c361e439545136b51e47a755)
 
